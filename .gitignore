@@ -1,0 +1,12 @@
+# ignore generated LaTeX files,
+*.aux
+*.log
+*.toc
+*.dvi
+.~lock.*
+
+
+*.pro.user
+debug/*
+release/*
+temp/*
