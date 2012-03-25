@@ -7,6 +7,6 @@
 
 
 *.pro.user
-debug/*
-release/*
-temp/*
+*/debug/*
+*/release/*
+*/temp/*
